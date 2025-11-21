@@ -1,4 +1,4 @@
-# Install script for directory: /home/raccoonhands/Programming/Code/BadApple/bad-apple-but-its-on-the-leetcode-calendar
+# Install script for directory: /workspace
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -50,5 +50,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "/home/raccoonhands/Programming/Code/BadApple/bad-apple-but-its-on-the-leetcode-calendar/build/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "/workspace/build/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")

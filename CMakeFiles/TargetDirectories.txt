@@ -1,3 +1,0 @@
-/home/raccoonhands/programming/code/bad-apple/bad-apple-but-its-on-the-leetcode-calendar/CMakeFiles/main.dir
-/home/raccoonhands/programming/code/bad-apple/bad-apple-but-its-on-the-leetcode-calendar/CMakeFiles/edit_cache.dir
-/home/raccoonhands/programming/code/bad-apple/bad-apple-but-its-on-the-leetcode-calendar/CMakeFiles/rebuild_cache.dir
